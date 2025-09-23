@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Teresa 
 
-I'm a software engineer focused on Artificial Intelligence. I love building things hands-on.
+I'm a software engineer focused on Artificial Intelligence and I am currently attending the second year of my Master’s degree in AI Engineering at UNIMORE.
 
 ## 🎓 About Me
 - 📍 Based in Modena, Italy  
