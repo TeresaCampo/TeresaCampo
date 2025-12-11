@@ -5,8 +5,9 @@ I'm a software engineer focused on Artificial Intelligence and I am currently at
 ## 🎓 About Me
 - 📍 Based in Modena, Italy  
 - 💻 MSc student in Artificial Intelligence Engineering at [UNIMORE](https://www.unimore.it/en)  .
-- 🔍 Check out my [linkedin profile] (https://www.linkedin.com/in/teresa-campo/) here.
+- 🔍 Check out my [LinkedIn profile](https://www.linkedin.com/in/teresa-campo/) here.
 - 📧 Contact me directly at campoteresa.2002@gmail.com
+  
 ## 🚀 Cool Projects
 
 - 🔗 [**SIDS revelation project**](https://github.com/Lori-in-the-clouds/SIDS_revelation_project) – Computer vision model for a smart baby monitor that aims to prevent SIDS (Sudden Infant Death Syndrome) detecting when the baby assumes a dangerous position.
