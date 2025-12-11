@@ -4,8 +4,8 @@ I'm a software engineer focused on Artificial Intelligence and I am currently at
 
 ## 🎓 About Me
 - 📍 Based in Modena, Italy  
-- 💻 MSc student in Artificial Intelligence Engineering @ [UNIMORE](https://www.unimore.it/en)  
-- 🔍 Check out my linkedin profile here  ![LinkedIn Badge](https://www.linkedin.com/in/teresa-campo/) 
+- 💻 MSc student in Artificial Intelligence Engineering @ ![UNIMORE](https://www.unimore.it/en)  
+- 🔍 Check out my linkedin profile here  [LinkedIn](https://www.linkedin.com/in/teresa-campo/) 
 - 📧 Contact me directly at campoteresa.2002@gmail.com
 ## 🚀 Cool Projects
 
